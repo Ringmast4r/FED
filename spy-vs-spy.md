@@ -954,22 +954,27 @@
 ## El Salvador
 
 - **Organismo de Inteligencia del Estado** (OIE)
+  - https://www.seguridad.gob.sv
   - State intelligence organization
   - National security and counterintelligence
 
 - **Dirección de Inteligencia de la Policía Nacional Civil** (DIPOL)
+  - https://www.pnc.gob.sv
   - National Civil Police intelligence directorate
   - Criminal intelligence operations
 
 - **Dirección de Inteligencia del Estado Mayor de la Defensa Nacional** (D-2)
+  - https://www.fuerzaarmada.mil.sv
   - Military intelligence directorate
   - Defense intelligence and threat assessment
 
 - **División Antinarcóticos de la Policía Nacional Civil** (DAN)
+  - https://www.pnc.gob.sv
   - Counter-narcotics division intelligence
   - Drug trafficking operations
 
 - **Unidad de Investigación Financiera** (UIF)
+  - https://www.uif.gob.sv
   - Financial investigation unit
   - Money laundering and financial crimes intelligence
 
