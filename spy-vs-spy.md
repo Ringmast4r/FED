@@ -179,11 +179,6 @@
 - [South Africa](#south-africa) | [Zimbabwe](#zimbabwe) | [Angola](#angola) | [Botswana](#botswana)
 - [Namibia](#namibia) | [Mozambique](#mozambique) | [Zambia](#zambia) | [Malawi](#malawi)
 
-</td>
-</tr>
-<tr>
-<td width="25%" valign="top">
-
 ### East Asia
 - [China](#china) (28+)
 - [Japan](#japan)
@@ -201,13 +196,6 @@
 - [Sri Lanka](#sri-lanka)
 - [Nepal](#nepal)
 
-### Central Asia
-- [Kazakhstan](#kazakhstan)
-- [Uzbekistan](#uzbekistan)
-- [Turkmenistan](#turkmenistan)
-- [Kyrgyzstan](#kyrgyzstan)
-- [Tajikistan](#tajikistan)
-
 </td>
 <td width="25%" valign="top">
 
@@ -222,6 +210,14 @@
 - [Laos](#laos)
 - [Cambodia](#cambodia)
 - [Brunei](#brunei)
+
+### Central Asia
+- [Turkmenistan](#turkmenistan)
+- [Kyrgyzstan](#kyrgyzstan)
+- [Tajikistan](#tajikistan)
+
+</td>
+<td width="25%" valign="top">
 
 ### Oceania & Pacific
 - [Australia](#australia) (11+ FVEY)
@@ -238,13 +234,15 @@
 - [Palau](#palau)
 
 </td>
-<td width="25%" valign="top">
+</tr>
+</table>
+
+---
 
 ### Intelligence Alliances
-- [Five Eyes](#five-eyes-alliance)
-  - [United States](#united-states) | [United Kingdom](#united-kingdom) | [Canada](#canada) | [Australia](#australia) | [New Zealand](#new-zealand)
-- [Nine Eyes](#nine-eyes-alliance)
-- [Fourteen Eyes](#fourteen-eyes-alliance)
+- [Five Eyes](#five-eyes-alliance) - US, UK, Canada, Australia, New Zealand
+- [Nine Eyes](#nine-eyes-alliance) - Five Eyes + Denmark, France, Netherlands, Norway
+- [Fourteen Eyes](#fourteen-eyes-alliance) - Nine Eyes + Belgium, Germany, Italy, Spain, Sweden
 
 ### Special Topics
 - [International Organizations](#international-organizations)
@@ -260,11 +258,6 @@
 - [Russia Expansion](#russiasoviet-intelligence-expansion)
 - [Israel Expansion](#israeli-intelligence-expansion)
 - [Five Eyes Expansion](#five-eyes-expansion)
-
-</td>
-<td width="25%" valign="top">
-
-### Additional Sections
 - [Additional US Agencies](#additional-us-agencies)
 - [More European Agencies](#more-european-agencies)
 - [More Middle East](#more-middle-east)
@@ -273,10 +266,6 @@
 - [More Africa](#more-africa)
 - [More Organizations & Alliances](#more-organizations--alliances)
 - [More Surveillance & Tech](#more-surveillance--tech)
-
-</td>
-</tr>
-</table>
 
 ---
 
