@@ -1198,10 +1198,17 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## South Africa
 
 - **SSA** (State Security Agency)
+  - https://www.ssa.gov.za
   - Intelligence operations
+  - National intelligence coordination
 
 - **NIA** (National Intelligence Agency)
   - Domestic intelligence
+  - Merged into SSA
+
+- **SAPS Crime Intelligence**
+  - https://www.saps.gov.za
+  - Police intelligence and investigations
 
 ---
 
@@ -1457,10 +1464,14 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## Morocco
 
 - **DGST** (Directorate General for Territorial Surveillance)
+  - https://www.dgst.gov.ma
   - Intelligence and counterterrorism
+  - Domestic and external security
 
 - **BCIJ** (Central Bureau of Judicial Investigation)
+  - https://www.bcij.ma
   - Counter-terrorism
+  - Judicial investigations
 
 ---
 
@@ -1481,27 +1492,35 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## Kenya
 
 - **NIS** (National Intelligence Service)
+  - https://www.nis.go.ke
   - Intelligence and security
+  - Counter-terrorism operations
 
 ---
 
 ## Nigeria
 
-- **SSS** (State Security Service)
+- **SSS/DSS** (State Security Service / Department of State Services)
+  - https://www.dss.gov.ng
   - Domestic intelligence
+  - Counter-terrorism and internal security
 
 - **NIA** (National Intelligence Agency)
   - Foreign intelligence
+  - External intelligence operations
 
 - **DIA** (Defence Intelligence Agency)
   - Military intelligence
+  - Defense intelligence operations
 
 ---
 
 ## Ghana
 
 - **BNI** (Bureau of National Investigations)
+  - https://www.bni.gov.gh
   - Intelligence operations
+  - National security investigations
 
 ---
 
@@ -2188,10 +2207,13 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## Chile
 
 - **ANI** (National Intelligence Agency)
+  - https://www.ani.gob.cl
   - Intelligence and security
+  - National intelligence coordination
 
 ### Historical
 - **DINA** - Pinochet-era secret police (1973-1977)
+- **CNI** - National Information Center (1977-1990, replaced DINA)
 
 ---
 
