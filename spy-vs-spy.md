@@ -22,16 +22,16 @@
 
 | Category | Count | Top 5 by Entity Count |
 |----------|-------|----------------------|
-| **🇺🇸 United States** | 75+ | NSA, CIA, FBI, DIA, DHS, DEA, ATF, ICE |
-| **🇬🇧 United Kingdom** | 35+ | MI6, MI5, GCHQ, DI, Special Branch |
-| **🇮🇱 Israel** | 42 | Mossad, Shin Bet, Unit 8200, Aman, NSO Group |
-| **🇨🇳 China** | 28+ | MSS, PLA SSF, Unit 61398, Skynet, PSB |
-| **🇷🇺 Russia** | 32+ | FSB, SVR, GRU, Unit 26165, Alpha Group |
-| **🇫🇷 France** | 18+ | DGSE, DGSI, DRM, GIGN, TRACFIN |
-| **🇩🇪 Germany** | 15+ | BND, BfV, MAD, GSG 9, BKA |
-| **🇮🇳 India** | 12+ | RAW, IB, NTRO, NIA, DRI |
-| **🇦🇺 Australia** | 11+ | ASIS, ASIO, ASD, AFP, ACC |
-| **🇨🇦 Canada** | 8+ | CSIS, CSE, RCMP Intelligence |
+| **United States** | 75+ | NSA, CIA, FBI, DIA, DHS, DEA, ATF, ICE |
+| **United Kingdom** | 35+ | MI6, MI5, GCHQ, DI, Special Branch |
+| **Israel** | 42 | Mossad, Shin Bet, Unit 8200, Aman, NSO Group |
+| **China** | 28+ | MSS, PLA SSF, Unit 61398, Skynet, PSB |
+| **Russia** | 32+ | FSB, SVR, GRU, Unit 26165, Alpha Group |
+| **France** | 18+ | DGSE, DGSI, DRM, GIGN, TRACFIN |
+| **Germany** | 15+ | BND, BfV, MAD, GSG 9, BKA |
+| **India** | 12+ | RAW, IB, NTRO, NIA, DRI |
+| **Australia** | 11+ | ASIS, ASIO, ASD, AFP, ACC |
+| **Canada** | 8+ | CSIS, CSE, RCMP Intelligence |
 | **💻 SIGINT/Cyber** | 65+ | NSA, GCHQ, Unit 8200, MSS, FSB |
 | **🎯 Military Intel** | 95+ | DIA, GRU, Aman, PLA, DGSE |
 | **📡 Surveillance Programs** | 65+ | PRISM, XKeyscore, ECHELON, Skynet |
