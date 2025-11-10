@@ -1355,7 +1355,9 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## Jordan
 
 - **GID** (General Intelligence Directorate)
+  - https://www.gid.gov.jo
   - Intelligence and counterterrorism
+  - National security operations
 
 ---
 
@@ -2733,10 +2735,17 @@ Also known as the **SIGINT Seniors Europe** forum, coordinating signals intellig
 ## Philippines
 
 - **NICA** (National Intelligence Coordinating Agency)
+  - https://www.nica.gov.ph
   - Intelligence coordination
+  - National security intelligence
 
 - **ISAFP** (Intelligence Service of the Armed Forces)
   - Military intelligence
+  - Armed forces intelligence operations
+
+- **NBI** (National Bureau of Investigation)
+  - https://www.nbi.gov.ph
+  - Criminal intelligence and investigations
 
 ---
 
