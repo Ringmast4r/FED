@@ -1301,20 +1301,27 @@
 ## Iraq
 
 - **INIS** (Iraqi National Intelligence Service)
+  - https://www.inis.gov.iq
   - Intelligence and security
+  - Counter-terrorism operations
 
 - **Asayish** (Kurdish Intelligence)
   - Kurdistan Regional Government intelligence
+  - KRG security operations
 
 ---
 
 ## Ireland
 
 - **G2** (Military Intelligence)
+  - https://www.military.ie
   - Defence intelligence
+  - Army intelligence operations
 
 - **SSB** (Special Branch)
+  - https://www.garda.ie
   - Police intelligence unit
+  - National security investigations
 
 ---
 
