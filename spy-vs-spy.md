@@ -758,7 +758,9 @@
 ## Colombia
 
 - **DNI** (National Intelligence Directorate)
+  - https://www.dni.gov.co
   - Intelligence coordination
+  - National security intelligence
 
 ---
 
@@ -1201,14 +1203,17 @@
 ## Honduras
 
 - **Dirección Nacional de Investigación e Inteligencia** (DNII)
+  - https://www.seguridad.gob.hn
   - National investigation and intelligence directorate
   - Counter-terrorism and security operations
 
 - **Dirección Policial de Investigaciones** (DPI)
+  - https://www.policianacional.gob.hn
   - Police investigation intelligence
   - Criminal intelligence operations
 
 - **Servicio de Inteligencia Militar** (SIM)
+  - https://www.sedena.gob.hn
   - Military intelligence service
   - Defense intelligence operations
 
@@ -1221,6 +1226,7 @@
   - Drug trafficking interdiction
 
 - **Comisión Nacional de Telecomunicaciones Intelligence**
+  - https://www.conatel.gob.hn
   - Communications intelligence
   - Signals intelligence operations
 
@@ -2223,7 +2229,9 @@
 ## Peru
 
 - **DINI** (National Intelligence Directorate)
+  - https://www.dini.gob.pe
   - Intelligence operations
+  - National security coordination
 
 ---
 
