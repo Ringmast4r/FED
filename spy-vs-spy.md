@@ -250,7 +250,9 @@
 ## Albania
 
 - **SHISH** (State Intelligence Service)
+  - https://www.shish.gov.al
   - Intelligence agency
+  - National security operations
 
 ---
 
@@ -908,26 +910,32 @@
 ## Dominican Republic
 
 - **Dirección Nacional de Inteligencia** (DNI)
+  - https://www.dni.gob.do
   - National intelligence agency
   - Counter-terrorism and security operations
 
 - **Departamento Nacional de Investigaciones** (DENI)
+  - https://www.policianacional.gob.do
   - Criminal intelligence and investigations
   - Organized crime intelligence
 
 - **Dirección General de Inteligencia Militar** (DGIM)
+  - https://www.mide.gob.do
   - Military intelligence operations
   - Defense intelligence and threat assessment
 
 - **Dirección Nacional de Control de Drogas** (DNCD)
+  - https://www.dncd.gob.do
   - Counter-narcotics intelligence
   - Drug trafficking interdiction operations
 
 - **Unidad de Análisis Financiero** (UAF)
+  - https://www.uaf.gob.do
   - Financial intelligence unit
   - Money laundering investigations
 
 - **Dirección General de Aduanas Intelligence**
+  - https://www.aduanas.gob.do
   - Customs intelligence operations
   - Border security and contraband interdiction
 
