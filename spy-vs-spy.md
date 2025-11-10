@@ -1521,18 +1521,22 @@
 ## Jamaica
 
 - **Jamaica Constabulary Force Special Branch**
+  - https://www.jcf.gov.jm
   - Police intelligence and counterintelligence operations
   - National security investigations
 
 - **Counter-Terrorism and Organised Crime Investigation Branch** (C-TOC)
+  - https://www.jcf.gov.jm
   - Counter-terrorism intelligence
   - Organized crime investigations and intelligence gathering
 
 - **Jamaica Defence Force Intelligence Unit**
+  - https://www.jdf.mil.jm
   - Military intelligence operations
   - Border security and threat assessment
 
 - **Financial Investigations Division** (FID)
+  - https://www.fid.gov.jm
   - Financial intelligence and money laundering investigations
   - Asset forfeiture intelligence
 
@@ -1541,6 +1545,7 @@
   - Counter-narcotics operations
 
 - **Jamaica Customs Agency Intelligence Unit**
+  - https://www.jacustoms.gov.jm
   - Customs intelligence and border security
   - Contraband and smuggling interdiction
 
@@ -2757,18 +2762,22 @@
 ## Trinidad and Tobago
 
 - **Special Branch** (Trinidad and Tobago Police Service)
+  - https://www.ttps.gov.tt
   - Domestic intelligence and counterintelligence
   - National security monitoring
 
 - **Strategic Services Agency** (SSA)
+  - https://www.ssa.gov.tt
   - National intelligence coordination
   - Counter-terrorism and security analysis
 
 - **Trinidad and Tobago Defence Force Intelligence**
+  - https://www.ttdf.mil.tt
   - Military intelligence operations
   - Border security and threat assessment
 
 - **Financial Intelligence Unit of Trinidad and Tobago** (FIUTT)
+  - https://www.fiu.gov.tt
   - Financial intelligence and anti-money laundering
   - Terrorism financing investigations
 
@@ -2777,6 +2786,7 @@
   - Drug trafficking operations
 
 - **Customs and Excise Intelligence Unit**
+  - https://www.customs.gov.tt
   - Border security and customs intelligence
   - Maritime smuggling interdiction
 
