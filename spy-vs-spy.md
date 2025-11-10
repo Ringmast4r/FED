@@ -765,26 +765,32 @@
 ## Costa Rica
 
 - **Dirección de Inteligencia y Seguridad Nacional** (DIS)
+  - https://www.dsp.go.cr
   - National intelligence and security directorate
   - Counter-terrorism and threat analysis
 
 - **Organismo de Investigación Judicial** (OIJ)
+  - https://www.poder-judicial.go.cr/oij
   - Judicial investigation intelligence
   - Criminal intelligence operations
 
 - **Policía de Control de Drogas** (PCD)
+  - https://www.mspseguridad.go.cr
   - Counter-narcotics intelligence
   - Drug trafficking investigations
 
 - **Unidad de Inteligencia Financiera** (UIF)
+  - https://www.uif.go.cr
   - Financial intelligence unit
   - Money laundering and financial crimes
 
 - **Servicio Nacional de Guardacostas Intelligence**
+  - https://www.guardacostas.go.cr
   - Coast Guard intelligence operations
   - Maritime security and drug interdiction
 
 - **Dirección General de Migración y Extranjería Intelligence**
+  - https://www.migracion.go.cr
   - Immigration intelligence operations
   - Border security monitoring
 
@@ -1138,14 +1144,17 @@
 ## Guatemala
 
 - **Secretaría de Inteligencia Estratégica del Estado** (SIE)
+  - https://www.sie.gob.gt
   - Strategic state intelligence secretariat
   - National security and counterintelligence
 
 - **Dirección General de Inteligencia Civil** (DIGICI)
+  - https://www.mingob.gob.gt
   - Civilian intelligence directorate
   - Internal security operations
 
 - **Dirección de Inteligencia del Estado Mayor de la Defensa Nacional** (D-2)
+  - https://www.mindef.mil.gt
   - Military intelligence directorate
   - Defense intelligence operations
 
@@ -1154,10 +1163,12 @@
   - Drug cartel monitoring
 
 - **Unidad de Inteligencia Financiera** (IVE)
+  - https://www.ive.gob.gt
   - Financial intelligence unit
   - Money laundering and terrorism financing
 
 - **División Especializada en Investigación Criminal** (DEIC)
+  - https://www.pnc.gob.gt
   - Specialized criminal investigation division
   - Organized crime intelligence
 
@@ -2172,22 +2183,27 @@
 ## Panama
 
 - **Servicio Nacional de Inteligencia y Seguridad** (SENIS)
+  - https://www.senis.gob.pa
   - National intelligence and security service
   - Counter-terrorism and counterintelligence
 
 - **Dirección de Investigación Judicial** (DIJ)
+  - https://www.ministeriopublico.gob.pa
   - Judicial investigation intelligence
   - Criminal intelligence operations
 
 - **Servicio Nacional de Fronteras** (SENAFRONT)
+  - https://www.senafront.gob.pa
   - Border security intelligence
   - Counter-narcotics and transnational crime
 
 - **Unidad de Análisis Financiero** (UAF)
+  - https://www.uaf.gob.pa
   - Financial intelligence unit
   - Money laundering and terrorism financing investigations
 
 - **Servicio Nacional Aeronaval** (SENAN) Intelligence
+  - https://www.senan.gob.pa
   - Maritime and air intelligence operations
   - Drug interdiction intelligence
 
