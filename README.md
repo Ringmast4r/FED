@@ -1,7 +1,30 @@
 <div align="center">
 
+<img width="100%" alt="FED" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:85791F&height=220&section=header&text=FED&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GitHub%20%7C%20Markdown%20%7C%20Intelligence%20%7C%20Reference&descSize=16&descAlignY=58"/>
+
+[`GitHub`](https://github.com/) [`Markdown`](https://www.markdownguide.org/) `Intelligence` `Reference` - The Global Intelligence Rolodex: reference databases of 925+ intelligence entities across 179 countries and 3,500+ cultural centers used as cover.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=85791F&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=The+Global+Intelligence+Rolodex%3A+reference+databases+of+925%2B+intelligence...%3BGitHub+%2F+Markdown+%2F+Intelligence+%2F+Reference)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-FED-85791F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/FED)
+[![Format](https://img.shields.io/badge/Format-Markdown-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/FED/tree/master)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/FED?style=flat-square&color=85791F)](https://github.com/Ringmast4r/FED/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/FED?style=flat-square&color=85791F)](https://github.com/Ringmast4r/FED/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/FED?style=flat-square&color=85791F)](https://github.com/Ringmast4r/FED)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/FED?style=flat-square&color=85791F)](https://github.com/Ringmast4r/FED/commits/master)
+
+</div>
+
+---
+
+<div align="center">
+
 # THE GLOBAL INTELLIGENCE ROLODEX
-## GLOBAL INTELLIGENCE AGENCIES AND CULTURAL CENTERS
+<a id="global-intelligence-agencies-and-cultural-centers"></a>
+## `> global_intelligence_agencies_and_cultural_centers`
 
 <img src="FED.png" alt="FED - Global Intelligence Database" width="700"/>
 
@@ -14,7 +37,8 @@
 
 ---
 
-## 📚 DATABASES
+<a id="-databases"></a>
+## `> databases`
 
 <br>
 
@@ -31,5 +55,13 @@
 ---
 
 **Maintained by**: ringmast4r
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" alt="FED footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:85791F,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20REFERENCE&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
 
 </div>
